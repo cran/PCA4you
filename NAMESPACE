@@ -1,0 +1,9 @@
+
+
+export(PCA.Filler)
+export(PCA.Plotter)
+importFrom("grDevices", "rgb")
+importFrom("graphics", "abline", "axis", "grid", "mtext", "par",
+             "plot", "text", "title")
+importFrom("stats", "var")
+
